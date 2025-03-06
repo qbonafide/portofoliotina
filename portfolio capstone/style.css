@@ -1,0 +1,22 @@
+body{
+    background-color: #171616;
+}
+
+.align-mid{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img{
+    margin-left: 41.5%;
+    border: white solid 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 200px;
+}
+
+*{
+    font-family: serif;
+    color: white;
+    font-size: 1.25rem;
+}
